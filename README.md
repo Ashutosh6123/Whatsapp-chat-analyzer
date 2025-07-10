@@ -70,7 +70,3 @@ To deploy on a platform like Render, use the provided ⁠ render.yaml ⁠ fi
 This project is for educational and personal use.
 
 ---
-
-## Screenshots
-
-You can showcase your project by adding screenshots below:
