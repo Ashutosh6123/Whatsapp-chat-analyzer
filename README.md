@@ -74,11 +74,3 @@ This project is for educational and personal use.
 ## Screenshots
 
 You can showcase your project by adding screenshots below:
-
-<!-- Example screenshot usage. Place your images in 'WhatsApp-Chat-Analyzer-main/resources/' relative to this README, or update the paths below as needed. -->
-![image](https://github.com/user-attachments/assets/6732b854-8aaf-47c6-ac73-0ffcc9fee2d5)
-![image](https://github.com/user-attachments/assets/b5feb7de-356d-4862-94ee-0d35ef74d6af)
-![image](https://github.com/user-attachments/assets/76f60987-41a4-479a-a1e4-b03fced9da7f)
-![image](https://github.com/user-attachments/assets/31158e07-7846-4f37-b4bd-16d93b952a35)
-![image](https://github.com/user-attachments/assets/2c548a23-e357-46d3-ae2d-b01d9fdea546)
-![image](https://github.com/user-attachments/assets/dc527f8e-e4b3-4c46-9ae2-0ce14572a8d1)
